@@ -1,0 +1,16 @@
+{
+  "name": "Carbs & Cals",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#131217",
+  "theme_color": "#b17acc",
+  "orientation": "portrait",
+  "description": "Quickly calculate the total calories and carbohydrates for a portion.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
